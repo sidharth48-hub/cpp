@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
     cout<<"hello";
-    cout<<"This is the test branch";
+    cout<<"This is the main branch";
     return 0;
 }
